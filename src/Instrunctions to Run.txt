@@ -1,0 +1,4 @@
+1)Run Index.html file directly on browser.
+2)After opening the index.html in browser, please input  metroData file from the same src folder and then proceed.
+
+

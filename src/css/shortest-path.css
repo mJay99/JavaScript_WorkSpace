@@ -1,0 +1,49 @@
+body,h4,h2,output{
+  font-weight: 800;
+  height:auto;
+  /*overflow-y: auto;*/
+
+}
+.container{
+  margin-top: 20px;	
+  margin-bottom: 20px;
+  /*font-weight: 600;*/
+  overflow-y:auto; 
+}
+.jumbotron{
+  /*background: #67C0DD;*/
+  background: white;
+  /*box-shadow: 1px 7px 20px 2px #31708f;*/
+  box-shadow: 1px 7px 20px 2px lightgray;
+ }
+
+select{
+ width: 100%;
+ box-shadow: 1px 7px 20px 2px lightgray;
+ padding:10px; 
+ margin:10px 0px 10px 0px;
+ overflow-y: hidden;
+}
+
+option{
+ line-height: 10px;
+}
+
+.btn{
+	 box-shadow: 1px 7px 20px 2px lightgray;
+	 padding:10px 40px 10px 40px;
+}
+
+.alert-primary{
+  background:white;
+  box-shadow: 1px 7px 20px 2px lightgray;
+  height: max-content;
+  overflow-y:auto;
+   
+}
+.alert-white{
+  border: 1px solid gray;	
+  background: white;
+  box-shadow: 1px 7px 20px 2px lightgray;
+  height: 60px;
+}
